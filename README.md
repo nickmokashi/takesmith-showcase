@@ -40,6 +40,7 @@ What starts as a read becomes a finished episode without leaving the app.
 * Guest cameras, and remote guests
 * B-roll suggestions and poster frames
 * An effects rack, running off the main thread so it never stalls the room
+* **Chapters from the script itself:** the section labels you already wrote become chapter timestamps, each timed from the moment you said the first line under it
 * Export to WAV or MP3
 
 ## Sessions
@@ -72,7 +73,7 @@ That idea turned into Takesmith.
 
 ## Current status
 
-Takesmith is under active development and testing. The build on this page is **0.24.0**.
+Takesmith is under active development and testing. The build on this page is **0.25.0**.
 
 The core project is kept in a private repository while the software continues to be developed. This repository is the public home for information, screenshots, development updates, and future release information.
 
