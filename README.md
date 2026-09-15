@@ -73,7 +73,7 @@ That idea turned into Takesmith.
 
 ## Current status
 
-Takesmith is under active development and testing. The build on this page is **0.25.0**.
+Takesmith is under active development and testing. The build on this page is **0.25.1**.
 
 The core project is kept in a private repository while the software continues to be developed. This repository is the public home for information, screenshots, development updates, and future release information.
 
