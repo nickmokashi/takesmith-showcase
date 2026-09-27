@@ -81,12 +81,6 @@ The core project is kept in a private repository while the software continues to
 
 The pictures here are photographed from the real application, by a build that runs itself with nobody in front of it, so the page can be kept honest release by release rather than whenever somebody remembers.
 
-## Part of The Grey Zone
-
-Takesmith is one of a growing collection of software, games, writing, and experiments built inside **The Grey Zone**.
-
-https://thegreyzone.xyz
-
 ---
 
 **Built by Greygray with AI collaboration openly included in the process.**
