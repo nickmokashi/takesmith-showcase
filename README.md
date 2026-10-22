@@ -49,6 +49,28 @@ What starts as a read becomes a finished episode without leaving the app.
 
 Every take is kept along with what happened during it. Nothing is thrown away because one sentence went wrong.
 
+## Music Lab (0.26.0, in testing)
+
+![Music Lab: a song fitted under the episode, ducked, and ridden by hand](shots/05-music-lab.png)
+
+Music for the episode, made from songs you already have. Takesmith listens through a song once and finds its beat, bars, key, chords and sections. Then it fits the song under your voice on bar lines, turns it down while you talk, and lets you ride its volume by hand while it plays. Every move is recorded and the export follows it exactly.
+
+![The song editor: the song as a map of sections, loops and stems](shots/06-song-editor.png)
+
+* **A song editor** that shows the song as a map you can correct, rearrange, speed up, change the key of, and split into drums, bass, vocals and the rest, on your own computer
+* **A soundboard, loops and a launcher** that keep everything on the bar
+* **Your own parts**, from a drum grid and a piano roll, and a mixer with groups and buses
+
+![Make music: a drum grid, and a mixer underneath](shots/07-make-music.png)
+
+* **Type it:** say what you want in a sentence and see the list of changes before anything happens. One undo takes it all back.
+
+![Type it: a sentence turned into a list of changes, shown before anything changes](shots/08-type-it.png)
+
+* **MIDI controllers** with learn, and honest tests for a USB mixer's line input and pads
+
+Everything Music Lab makes ends up as ordinary clips on the timeline, so nothing it does is locked away from your hands.
+
 ## Bring Your Own Keys
 
 Takesmith is designed around **BYOK**, or Bring Your Own Key.
@@ -56,6 +78,8 @@ Takesmith is designed around **BYOK**, or Bring Your Own Key.
 Voice recognition uses a user-provided **Deepgram API key**.
 
 An **ElevenLabs key is optional** for AI voice features.
+
+An **Anthropic key is optional** for Music Lab's AI reader, and Takesmith holds it to a monthly spending limit you set, before anything is sent.
 
 That means Takesmith does not need to quietly bundle someone else's expensive AI usage into a subscription just to make the core experience work.
 
@@ -73,7 +97,7 @@ That idea turned into Takesmith.
 
 ## Current status
 
-Takesmith is under active development and testing. The build on this page is **0.25.4**.
+Takesmith is under active development and testing. The released build is **0.25.4**. Music Lab is **0.26.0**, built and in testing, and not released yet.
 
 The core project is kept in a private repository while the software continues to be developed. This repository is the public home for information, screenshots, development updates, and future release information.
 
