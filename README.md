@@ -26,6 +26,20 @@ The goal is to let them speak naturally while the script keeps up.
 * Provides runway words so you can see what is coming without chasing the screen
 * Walk back through a paused take a sentence at a time, and record again from that point
 
+## Talking from points (0.25.5)
+
+For an episode with no script. The list is your topics, split into the points you want to reach, each with a rough time, imported straight from a Word document.
+
+![Talking points on the Record tab: topics, points and times, checked before you start](shots/09-talk-setup.png)
+
+While you record, one point is on screen with a clock that changes colour as its time runs down. It never moves you on: Space does. A bridge carries you into the next topic, and the whole episode's clock sits quietly at the bottom, with whether there is room for the extra topic.
+
+![Recording from talking points: the point, its clock, the bridge into the next topic, and the whole list](shots/10-talk-points.png)
+
+Pause to go back to any point, listen, and go again from there. The cut lands in the gap before it, and the clocks go back with it. Afterwards one button in the studio turns the topics into chapters.
+
+![Paused: back to the start of a point, ready to go again](shots/11-talk-redo.png)
+
 ## The studio
 
 ![The studio timeline, a clip to a layer](shots/02-studio.png)
@@ -97,7 +111,7 @@ That idea turned into Takesmith.
 
 ## Current status
 
-Takesmith is under active development and testing. The released build is **0.25.4**. Music Lab is **0.26.0**, built and in testing, and not released yet.
+Takesmith is under active development and testing. The released build is **0.25.5**, which added talking from points. Music Lab is **0.26.0**, built and in testing, and not released yet.
 
 The core project is kept in a private repository while the software continues to be developed. This repository is the public home for information, screenshots, development updates, and future release information.
 
