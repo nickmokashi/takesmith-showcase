@@ -40,6 +40,20 @@ Pause to go back to any point, listen, and go again from there. The cut lands in
 
 ![Paused: back to the start of a point, ready to go again](shots/11-talk-redo.png)
 
+## Two cameras (0.25.6)
+
+Plug in a second camera and both record the whole take. While you talk, press 1 or 2 to pick which one the video shows. These pictures use two test cameras the app draws for itself, one blue and one orange.
+
+![The Record tab with two cameras, each with its preview](shots/12-two-cameras.png)
+
+The cameras keep rolling through every pause and every fumble, but the video does not: the take keeps a clock of how much sound reached the file at each moment, so the picture can follow the sound exactly.
+
+![Recording from talking points with Camera 2 picked](shots/13-camera-recording.png)
+
+In the studio, one button cuts the cameras to the take: the camera you picked on every second, pauses and redos already cut out, lined up with the sound to within a frame. Any stretch can be switched to the other camera afterwards, because both recorded all of it.
+
+![The Cameras panel in the studio, with the camera in the studio's picture](shots/14-studio-cameras.png)
+
 ## The studio
 
 ![The studio timeline, a clip to a layer](shots/02-studio.png)
@@ -111,7 +125,7 @@ That idea turned into Takesmith.
 
 ## Current status
 
-Takesmith is under active development and testing. The released build is **0.25.5**, which added talking from points. Music Lab is **0.26.0**, built and in testing, and not released yet.
+Takesmith is under active development and testing. The released build is **0.25.6**, which added two cameras switched with 1 and 2, after 0.25.5 added talking from points. Music Lab is **0.26.0**, built and in testing, and not released yet.
 
 The core project is kept in a private repository while the software continues to be developed. This repository is the public home for information, screenshots, development updates, and future release information.
 
