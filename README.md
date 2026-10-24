@@ -54,6 +54,20 @@ In the studio, one button cuts the cameras to the take: the camera you picked on
 
 ![The Cameras panel in the studio, with the camera in the studio's picture](shots/14-studio-cameras.png)
 
+## What you've said (0.25.7)
+
+Talking from points, your words are written down beside your points as you say them, a moment behind you, under the topic they belong to. One switch above the list goes between your points and what you have said. These pictures use a stand-in speech service with made-up words.
+
+![What you've said, beside the point you are on](shots/15-what-youve-said.png)
+
+Paused, the panel shows your last words. Click the last one you are happy with, and Record goes again from just after it: the cut lands in the pause after that word, it plays you the last few seconds, and you come back in on the same beat.
+
+![Paused, with the last good word picked](shots/16-last-good-word.png)
+
+After the take, the whole thing is written down properly, with punctuation and without the ums. In the studio, Transcript beside any take shows it by topic, ready to copy or save as a Word document.
+
+![A take's transcript in the studio, with Copy all and Save as Word](shots/17-take-transcript.png)
+
 ## The studio
 
 ![The studio timeline, a clip to a layer](shots/02-studio.png)
@@ -125,7 +139,7 @@ That idea turned into Takesmith.
 
 ## Current status
 
-Takesmith is under active development and testing. The released build is **0.25.6**, which added two cameras switched with 1 and 2, after 0.25.5 added talking from points. Music Lab is **0.26.0**, built and in testing, and not released yet.
+Takesmith is under active development and testing. The released build is **0.25.7**, which writes down what you say as you talk from points and lets you go again from your last good word, after 0.25.6 added two cameras and 0.25.5 added talking from points. Music Lab is **0.26.0**, built and in testing, and not released yet.
 
 The core project is kept in a private repository while the software continues to be developed. This repository is the public home for information, screenshots, development updates, and future release information.
 
