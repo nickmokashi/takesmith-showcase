@@ -54,6 +54,16 @@ In the studio, one button cuts the cameras to the take: the camera you picked on
 
 ![The Cameras panel in the studio, with the camera in the studio's picture](shots/14-studio-cameras.png)
 
+## Your screen (0.25.8)
+
+For the moments when showing beats telling. Tick Record my screen too on the Record tab and pick what to show: the whole screen, or one window when Windows lists them. Takesmith never offers its own window, so the talking points stay out of the video. These pictures use a screen the app draws for itself, in green.
+
+![The Record tab with two cameras and the screen, and What to show](shots/18-screen-setup.png)
+
+The screen records the whole take the way a camera does. While you talk, 3 puts it in the video and 1 goes back to your camera, and the picture in the corner shows the screen the right way round. In the studio, the same Cameras button cuts it in with everything else.
+
+![Recording with the screen picked](shots/19-screen-recording.png)
+
 ## What you've said (0.25.7)
 
 Talking from points, your words are written down beside your points as you say them, a moment behind you, under the topic they belong to. One switch above the list goes between your points and what you have said. These pictures use a stand-in speech service with made-up words.
@@ -139,7 +149,7 @@ That idea turned into Takesmith.
 
 ## Current status
 
-Takesmith is under active development and testing. The released build is **0.25.7**, which writes down what you say as you talk from points and lets you go again from your last good word, after 0.25.6 added two cameras and 0.25.5 added talking from points. Music Lab is **0.26.0**, built and in testing, and not released yet.
+Takesmith is under active development and testing. The released build is **0.25.8**, which records your screen as a third picture, shown with 3, after 0.25.7 wrote down what you say as you talk and 0.25.6 added two cameras. Music Lab is **0.26.0**, built and in testing, and not released yet.
 
 The core project is kept in a private repository while the software continues to be developed. This repository is the public home for information, screenshots, development updates, and future release information.
 
