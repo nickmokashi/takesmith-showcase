@@ -54,15 +54,17 @@ In the studio, one button cuts the cameras to the take: the camera you picked on
 
 ![The Cameras panel in the studio, with the camera in the studio's picture](shots/14-studio-cameras.png)
 
-## Your screen (0.25.8)
+## A picture and your screen (0.25.9)
+
+An audio show can still have a simple video, without a camera. Tick Show a picture instead of a camera and choose an image; it is what the video shows while you talk. Add Record my screen too for the moments when showing beats telling.
 
 For the moments when showing beats telling. Tick Record my screen too on the Record tab and pick what to show: the whole screen, or one window when Windows lists them. Takesmith never offers its own window, so the talking points stay out of the video. These pictures use a screen the app draws for itself, in green.
 
-![The Record tab with two cameras and the screen, and What to show](shots/18-screen-setup.png)
+![The Record tab with a picture instead of a camera, and the screen](shots/18-screen-setup.png)
 
-The screen records the whole take the way a camera does. While you talk, 3 puts it in the video and 1 goes back to your camera, and the picture in the corner shows the screen the right way round. In the studio, the same Cameras button cuts it in with everything else.
+Both record the whole take the way a camera does. While you talk, 3 puts your screen in the video and 1 goes back to the picture. While the screen records, Takesmith keeps itself out of the recording, so one screen is enough. In the studio, the same Cameras button cuts it all together. These pictures use a magenta picture and a green screen the app draws for itself.
 
-![Recording with the screen picked](shots/19-screen-recording.png)
+![Recording with the screen picked, and the picture on 1](shots/19-screen-recording.png)
 
 ## What you've said (0.25.7)
 
@@ -149,7 +151,7 @@ That idea turned into Takesmith.
 
 ## Current status
 
-Takesmith is under active development and testing. The released build is **0.25.8**, which records your screen as a third picture, shown with 3, after 0.25.7 wrote down what you say as you talk and 0.25.6 added two cameras. Music Lab is **0.26.0**, built and in testing, and not released yet.
+Takesmith is under active development and testing. The released build is **0.25.9**, which adds a picture instead of a camera and keeps Takesmith out of the screen recording, after 0.25.8 added the screen and 0.25.7 wrote down what you say as you talk. Music Lab is **0.26.0**, built and in testing, and not released yet.
 
 The core project is kept in a private repository while the software continues to be developed. This repository is the public home for information, screenshots, development updates, and future release information.
 
